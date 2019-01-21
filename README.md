@@ -2,8 +2,8 @@
 
 
 ## 此程序是为中国大学生阅读文献的辅助工具
-    ![本程序](https://github.com/dhzzy88/Translation_Of_Literaure/main.png)
-    ![Running](https://github.com/dhzzy88/Translation_Of_Literaure/runtime.png)
+![本程序](https://github.com/dhzzy88/Translation_Of_Literaure/main.png)
+![Running](https://github.com/dhzzy88/Translation_Of_Literaure/runtime.png)
   
 ## 只能支持word(.docx)文件  
   由于使用的百度翻译的通用api翻译的准确度不是十分好，仅作为辅助工具使用，由于解析PDF比较复杂，所以本程序暂时没有提供翻译PDF文件的功能，需要将所需要的文档转换成为word文档（.docx）。 比较常用的是迅捷<http://app.xunjiepdf.com/pdf2word>在线转换可能对文件大小有限制(2M)。或者smallpdf<https://smallpdf.com/cn/pdf-to-word>对文件没有限制，功能免费，但是比较慢。
@@ -31,7 +31,7 @@
    
 ## 使用直接将文件拖入框内即可
    如果文件名中有中文注意检查路径在拖入后是否包在在双引号内，如果有将双引号删除
-   ![如图](https://github.com/dhzzy88/Translation_Of_Literaure/yinhao.png)
+![如图](https://github.com/dhzzy88/Translation_Of_Literaure/yinhao.png)
    
    
 ##  关于生成的文件
@@ -41,14 +41,14 @@
     3. 生成的replace 为正式的翻译文件，与源文献格式相同，需要排版
     建议选择最后replace+...文件使用
 
-    ![生成文件](https://github.com/dhzzy88/Translation_Of_Literaure/result.png)
+![生成文件](https://github.com/dhzzy88/Translation_Of_Literaure/result.png)
 
     
 ## Example
-   ### 翻译前
-   ![翻译前](https://https://github.com/dhzzy88/Translation_Of_Literaure/fanyiqian.png)
-   ![翻译前](https://github.com/dhzzy88/Translation_Of_Literaure/fanyiqian2.png)
+
+![翻译前](https://https://github.com/dhzzy88/Translation_Of_Literaure/fanyiqian.png)
+![翻译前](https://github.com/dhzzy88/Translation_Of_Literaure/fanyiqian2.png)
    
    
-   ![翻译后](https://github.com/dhzzy88/Translation_Of_Literaure/fanyigou1.png)
-   ![翻译后](https://github.com/dhzzy88/Translation_Of_Literaure/fanyihou2.png)
+![翻译后](https://github.com/dhzzy88/Translation_Of_Literaure/fanyigou1.png)
+![翻译后](https://github.com/dhzzy88/Translation_Of_Literaure/fanyihou2.png)
