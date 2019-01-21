@@ -52,4 +52,4 @@
    
    
 ![翻译后](https://raw.githubusercontent.com/dhzzy88/Translation_Of_Literaure/master/fanyigou1.png)
-![翻译后](https://raw.githubusercontent.com/dhzzy88/Translation_Of_Literaure/master/fanyihou2.png)
+![翻译后](https://raw.githubusercontent.com/dhzzy88/Translation_Of_Literaure/master/fanyigou2.png)
