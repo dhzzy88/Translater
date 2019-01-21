@@ -1,6 +1,10 @@
 # Translastion Of Literature
 
 
+# [下载](https://pan.baidu.com/s/1tmy3zS3YIEji2w-7nlJ9Kg)
+
+# 使用之前一定申请百度翻译（通用）api  下载的文件里面config.json为失效api密钥
+
 ## 此程序是为中国大学生阅读文献的辅助工具
 
 ![本程序](https://raw.githubusercontent.com/dhzzy88/Translation_Of_Literaure/master/main.png)
@@ -12,7 +16,7 @@
   
   
 ## 配置文件
-   
+   ### 使用记事本打开
    使用之前需要申请百度翻译通用api的appid和key，只要有百度账号可以直接登录申请（一般都有百度云盘估计都注册了）。具体申请流程百度经验<https://jingyan.baidu.com/article/3f16e00305bb552591c10304.html>，具体点击了解。
    配置文件为`config.json`
    所给的内容为配置的格式，尤其冒号两边不能有空格，如下：
